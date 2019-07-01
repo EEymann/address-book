@@ -10,3 +10,8 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+.btn {
+  font-size: 20px;
+  background-color: yellow;
+}
